@@ -1,0 +1,16 @@
+:root {
+    --primary-color: slategray;
+    --secondary-color: lightslategray;
+    --tertiary-color: lightgray;
+}
+
+body {
+    background-color: var(--primary-color);
+    background: linear-gradient(
+        270deg,
+        var(--primary-color),
+        var(--secondary-color),
+        var(--tertiary-color)
+    );
+    min-height: 100vh;
+}
