@@ -1,26 +1,9 @@
-# create-svelte
+# Svelte Pokedex
+This is based on a tutorial by Scott Q Quick, the link is here: https://www.youtube.com/watch?v=UU7MgYIbtAk. I switched out the pokemon images for the "official-artwork" type, created a gigantic Pokemon detail view that looks like a playing card, and fetched some additional information from the API. I also added a few CSS styles like a background gradient, and imported the UnoCSS Engine, which is amaze balls, link to that engine here: https://github.com/antfu/unocss.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
-```
-
-> Note: the `@next` is temporary
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
 npm run dev
 
 # or start the server and open the app in a new browser tab
