@@ -1,5 +1,5 @@
 # Svelte Pokedex
-This is based on a tutorial by Scott Q Quick, the link is here: https://www.youtube.com/watch?v=UU7MgYIbtAk. I switched out the pokemon images for the "official-artwork" type, created a gigantic Pokemon detail view that looks like a playing card, and fetched some additional information from the API. I also added a few CSS styles like a background gradient, and imported the UnoCSS Engine, which is amaze balls, link to that engine here: https://github.com/antfu/unocss.
+This is based on a tutorial by James Q Quick, the link is here: https://www.youtube.com/watch?v=UU7MgYIbtAk. I switched out the pokemon images for the "official-artwork" type, created a gigantic Pokemon detail view that looks like a playing card, and fetched some additional information from the API. I also added a few CSS styles like a background gradient, and imported the UnoCSS Engine, which is amaze balls, link to that engine here: https://github.com/antfu/unocss.
 
 
 ## Developing
